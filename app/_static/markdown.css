@@ -241,7 +241,7 @@
   font-size: 100%;
   line-height: inherit;
   word-wrap: normal;
-  white-space: pre;
+  white-space: pre-wrap;
   border: 0;
   -webkit-border-radius: 3px;
   border-radius: 3px;
